@@ -1,0 +1,7 @@
+#coding: utf-8
+DATABASE = {
+        'host':'localhost',
+        'user': 'root',
+        'passwd': 'root',
+        'db': 'root',
+        }
